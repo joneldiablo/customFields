@@ -1,0 +1,31 @@
+{
+  "name": "jquery-switchery",
+  "license": "MIT",
+  "authors": [
+    "jd-R2 <jon_eldiablo@hotmail.com>"
+  ],
+  "description": "jquery plugin for switchery.",
+  "homepage": "",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "boilerplate",
+    "jquery-plugin",
+    "jquery-switchery"
+  ],
+  "main": "src/jquery.b9e.switchery.js",
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "switchery": "^0.8.2"
+  },
+  "ignore": [
+    "npm-debug.log",
+    "bower_components",
+    "node_modules",
+    "src",
+    "test"
+  ],
+  "_source": "C:\\RedHat\\plugins\\jquery.b9e.switchery",
+  "_target": "*",
+  "_originalSource": "C:\\RedHat\\plugins\\jquery.b9e.switchery"
+}

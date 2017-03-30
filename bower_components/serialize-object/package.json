@@ -1,0 +1,11 @@
+{
+  "name": "serialize-object",
+  "version": "1.0.0",
+  "description": "serializeArray equivalent for JSON objects, use jquery",
+  "main": "serializeObject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jon_eldiablo@hotmail.com",
+  "license": "ISC"
+}

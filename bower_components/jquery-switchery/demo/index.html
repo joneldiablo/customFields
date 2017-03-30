@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>jQuery Boilerplate</title>
+
+<link href="../bower_components/switchery/dist/switchery.min.css" rel="stylesheet">
+
+<script src="../bower_components/jquery/dist/jquery.min.js"></script>
+<script src="../bower_components/switchery/dist/switchery.min.js"></script>
+<script src="../src/jquery.b9e.switchery.js"></script>
+</head>
+<body>
+  <input type="checkbox" id="demo1" name="demo1" class="switchery" checked="checked"/>
+  <input type="checkbox" id="demo2" name="demo2" class="switchery" />
+  <input type="checkbox" id="demo3" name="demo3" class="" />
+  <script>
+			$(function() {
+				$(".switchery").switchery({
+					color : "#4c5667"
+				});
+			});
+		</script>
+</body>
+</html>

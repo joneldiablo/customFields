@@ -1,0 +1,21 @@
+{
+  "name": "serialize-object",
+  "description": "serializeArray equivalent for JSON objects, use jquery",
+  "main": "serializeObject.js",
+  "authors": [
+    "jon_eldiablo@hotmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4"
+  }
+}
