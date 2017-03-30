@@ -1,0 +1,112 @@
+[{
+  "etiqueta": "Talla",
+  "customFieldsTypeId": "5",
+  "list": "chica,grande,mediana,extra,mini",
+  "priority": "2",
+  "enabled": "true",
+  "id": 1
+},
+{
+  "etiqueta": "Perecedero",
+  "customFieldsTypeId": "4",
+  "priority": "3",
+  "list": "",
+  "enabled": "true",
+  "id": 2
+},
+{
+  "etiqueta": "Peso en kg",
+  "customFieldsTypeId": "1",
+  "priority": "1",
+  "list": "",
+  "enabled": "true",
+  "id": 3
+},
+{
+  "etiqueta": "Tamaño",
+  "customFieldsTypeId": "5",
+  "priority": "4",
+  "list": "1/2 litro,1/4 litro,1 litro,otro elemento",
+  "enabled": "true",
+  "id": 4
+},
+{
+  "etiqueta": "Viscosidad",
+  "customFieldsTypeId": "5",
+  "priority": "7",
+  "list": "básico,extra",
+  "enabled": "false",
+  "id": 5
+},
+{
+  "etiqueta": "Producto digital",
+  "customFieldsTypeId": "4",
+  "priority": "6",
+  "list": "",
+  "enabled": "true",
+  "id": 6
+},
+{
+  "etiqueta": "Servicio",
+  "customFieldsTypeId": "4",
+  "priority": "8",
+  "list": "",
+  "enabled": "false",
+  "id": 7
+},
+{
+  "etiqueta": "Segunda Descripción",
+  "customFieldsTypeId": "3",
+  "priority": "5",
+  "list": "",
+  "enabled": "false",
+  "id": 8
+},
+{
+  "etiqueta": "Fecha de caducidad",
+  "customFieldsTypeId": "2",
+  "priority": "9",
+  "list": "",
+  "enabled": "true",
+  "id": 9
+},
+{
+  "etiqueta": "Fecha de empaque",
+  "customFieldsTypeId": "2",
+  "priority": "0",
+  "list": "",
+  "id": 10,
+  "enabled": "true"
+},
+{
+  "etiqueta": "peso en gramos",
+  "customFieldsTypeId": "1",
+  "priority": "10",
+  "list": "",
+  "enabled": "true",
+  "id": 11
+},
+{
+  "etiqueta": "opciones",
+  "customFieldsTypeId": "5",
+  "priority": "11",
+  "list": "op,ds,sdff",
+  "enabled": "true",
+  "id": 12
+},
+{
+  "etiqueta": "texto sin nombre",
+  "customFieldsTypeId": "0",
+  "priority": "12",
+  "list": "",
+  "enabled": "true",
+  "id": 13
+},
+{
+  "etiqueta": "otro ",
+  "customFieldsTypeId": "0",
+  "priority": "13",
+  "list": "",
+  "enabled": "true",
+  "id": 14
+}]
