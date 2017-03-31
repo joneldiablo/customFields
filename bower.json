@@ -1,0 +1,39 @@
+{
+  "name": "customFields",
+  "description": "modulo para presentar campos personalizados en productos",
+  "main": "customFields",
+  "keywords": [
+    "campos",
+    "custom",
+    "modulo",
+    "tps"
+  ],
+  "authors": [
+    "jon_eldiablo@hotmail.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demo/assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": "2.2.4",
+    "gsap": "^1.19.1",
+    "jquery-ui": "^1.12.1",
+    "jquery-ui-touch-punch": "*",
+    "serialize-object": "C:\\RedHat\\plugins\\serializeObject",
+    "bootstrap-datepicker": "^1.6.4",
+    "bootstrap-tagsinput": "tagsinput#^0.8.0",
+    "jquery-switchery": "C:\\RedHat\\plugins\\jquery.b9e.switchery"
+  },
+  "resolutions": {
+    "jquery": "1.9.1 - 3"
+  }
+}
